@@ -1,0 +1,23 @@
+.Navbar {
+  background-color: #008080;
+}
+.title {
+  text-decoration: white;
+}
+.text-white {
+  text-align: center;
+  background-color: #008080;
+}
+.footer {
+  background-color: #008080;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  height: 50px;
+  margin: 0px 0px 0px 0px;
+  font-size: 32px;
+  clear: both;
+}
