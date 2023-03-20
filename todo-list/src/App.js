@@ -198,7 +198,7 @@ function App() {
         <Navbar className="Navbar " fixed="bottom" expand="lg">
           <Container>
             <Navbar.Brand className="text-white fw-bold fs-4 ">
-              Application Develop by Usama Hafeez
+              Application Develop by Usama 
             </Navbar.Brand>
           </Container>
         </Navbar>
