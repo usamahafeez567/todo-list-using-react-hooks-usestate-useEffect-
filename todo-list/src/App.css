@@ -4,13 +4,14 @@
 .title {
   text-decoration: white;
 }
-/* .text-white {
+.text-white {
   text-align: center;
   background-color: #008080;
 }
 .footer {
   background-color: #008080;
-  position: fixed;
+  position: relative;
+  height: 1200vh;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -20,4 +21,4 @@
   margin: 0px 0px 0px 0px;
   font-size: 32px;
   clear: both;
-} */
+}

@@ -193,16 +193,6 @@ function App() {
           </div>
         </div>
       </div>
-      <footer>
-        {/* <h3 className="footer">Application Develop by Usama Hafeez</h3> */}
-        <Navbar className="Navbar " fixed="bottom" expand="lg">
-          <Container>
-            <Navbar.Brand className="text-white fw-bold fs-4 ">
-              Application Develop by Usama 
-            </Navbar.Brand>
-          </Container>
-        </Navbar>
-      </footer>
     </>
   );
 }
